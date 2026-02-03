@@ -108,4 +108,4 @@ title("Magnitude Spectrum (FFT – Radix 2)");
 
 
 # RESULT: 
-Thus DFT is obtained using Direct method and FFT method
+Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence was obtained and its magnitude and phase spectrum were plotted.
